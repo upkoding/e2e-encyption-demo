@@ -27,4 +27,4 @@ python client.py Bambang
 python client.py Jono
 ```
 
-Demo ini adalah bahan penunjang untuk salah satu video di [Channel Youtube UpKoding](https://www.youtube.com/c/UpKoding/videos) mengenai **Cara Kerja End-to-end encryption di Whatsapp/Telegram**.
+Demo ini adalah bahan penunjang untuk salah satu video di [Channel Youtube UpKoding](https://www.youtube.com/c/UpKoding/videos) mengenai **[Cara Kerja End-to-end encryption di Whatsapp/Telegram](https://youtu.be/jk3alKS0RFw)**.
